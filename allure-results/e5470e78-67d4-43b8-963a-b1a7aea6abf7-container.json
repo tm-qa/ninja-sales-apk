@@ -1,0 +1,1 @@
+{"uuid":"e5470e78-67d4-43b8-963a-b1a7aea6abf7","name":"loginMintproTest.start","children":["68145b54-8bfb-44a2-9624-9c874c18a4b8"],"description":"","befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1739959366180,"stop":1739959371570}],"afters":[],"start":1739959366178,"stop":1739959371571}

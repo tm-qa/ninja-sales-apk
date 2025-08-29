@@ -1,0 +1,1 @@
+{"uuid":"19ec3a61-ed61-4c97-8973-8287fce4b67e","name":"Smoke_Test.start","children":["c785ced7-44b0-4e74-bc6f-2e9558680ec4"],"description":"","befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1741800115721,"stop":1741800124738}],"afters":[],"start":1741800115720,"stop":1741800124738}
