@@ -29,7 +29,7 @@ public class login extends TestBase {
 
     @Test(description = "TC_01  Verifying login function ")
     public void loginFunction() throws InterruptedException {
-        System.out.printf("successfully login to ninja salesPro apk");
+        System.out.printf("successfully  login to ninja salesPro apk");
         TestUtil.getScreenShot();
 
     }
